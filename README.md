@@ -2,11 +2,6 @@
 
 <h3>📊 Projeto para formação data science ONE </h3>
 
-#
-Claro! Aqui vai uma sugestão de seção "Tecnologias Utilizadas" para o README.md do seu projeto no GitHub:
-
-
----
 
 <b>Tecnologias Utilizadas</b>
 
