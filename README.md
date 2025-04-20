@@ -5,7 +5,6 @@
 
 <b>Tecnologias Utilizadas</b>
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 Python 3: Linguagem de programação principal utilizada no desenvolvimento do projeto.
 
