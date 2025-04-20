@@ -3,14 +3,30 @@
 <h3>📊 Projeto para formação data science ONE </h3>
 
 #
-<b>Análise </b>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
+Claro! Aqui vai uma sugestão de seção "Tecnologias Utilizadas" para o README.md do seu projeto no GitHub:
+
+
+---
+
+<b>Tecnologias Utilizadas</b>
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
+
+Python 3: Linguagem de programação principal utilizada no desenvolvimento do projeto.
+
+Google Colaboratory (Colab): Ambiente de desenvolvimento baseado na nuvem, ideal para execução de notebooks Jupyter.
+
+Pandas: Biblioteca poderosa para análise e manipulação de dados, amplamente utilizada para leitura, tratamento e análise de dados tabulares.
+
+Matplotlib: Biblioteca de visualização utilizada para criação de gráficos e visualizações dos dados analisados.
+
+
+
+---
+
+Se quiser, posso complementar com outras seções (como "Como Executar", "Requisitos", etc). Deseja deixar o texto mais formal ou mais didático?
+
+
 
   ##
   <b>Devs:</b>
