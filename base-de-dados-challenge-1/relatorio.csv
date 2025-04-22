@@ -1,7 +1,7 @@
-﻿Parâmetros;Loja 1;Loja 2;Loja 3;Loja 4;
-Faturamento;R$ 1.534.509,12;R$ 1.488.459,06;R$ 1.464.025,03;R$ 1.384.497,58;
-Categoria  mais vendida;Móveis;Móveis;Móveis;Móveis;
-Média de avaliação;3.98;4.04;4.05;4.0;
-Mais Vendido;Micro-ondas;Iniciando em programação;Kit banquetas;Cama box;
-Menos Vendido;Celular ABXY;Jogo de Tabuleiro;Blocos de montar;Guitarra;
-Frete;34.69;33.62;33.07;31.28;
+﻿Parâmetros;Loja 1;Loja 2;Loja 3;Loja 4
+Faturamento;R$ 1.534.509,12;R$ 1.488.459,06;R$ 1.464.025,03;R$ 1.384.497,58
+Categoria  mais vendida;Móveis;Móveis;Móveis;Móveis
+Média de avaliação;3.98;4.04;4.05;4.0
+Mais Vendido;Micro-ondas;Iniciando em programação;Kit banquetas;Cama box
+Menos Vendido;Celular ABXY;Jogo de Tabuleiro;Blocos de montar;Guitarra
+Frete;34.69;33.62;33.07;31.28
