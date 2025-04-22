@@ -1,32 +1,47 @@
-📊 Data-Science-Challenge1 – Análise de Dados das Lojas
-
-Este projeto tem como objetivo guiar a decisão do Sr. João sobre qual loja de sua rede deve ser vendida para financiar um novo empreendimento. A análise foi realizada com base em dados de vendas, desempenho e avaliações de 4 lojas distintas.
+<h1>📊 Data-Science-Challenge1 – Análise de Dados das Lojas</h1>
 
 
 
+<div align="left">
+  <p>Tecnologias utilizadas<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="25" alt="javascript logo"  />
 
-🔍 Objetivos da Análise
+
+
+##
+    
+<p>Este projeto tem como objetivo guiar a decisão do Sr. João sobre qual loja de sua rede deve ser vendida para financiar um novo empreendimento. A análise foi realizada com base em dados de vendas, desempenho e avaliações de 4 lojas distintas.</p>
+
+
+#
+
+<h2>🔍 Objetivos da Análise</h2>
 
 
 Identificar a loja com pior desempenho geral.
 Avaliar os seguintes indicadores:
 
+#
+
+<p>💹 Faturamento Total por Loja</p>
+<p>📎 Categorias de Produtos Vendidos</p>
+<p>⭐ Média das Avaliações dos Clientes</p>
+<p>🏆 Produtos Mais e Menos Vendidos
+<p>🚚 Frete Médio por Loja</p>
+
+#
 
 
 
-📈 Faturamento Total por Loja
-📦 Categorias de Produtos Vendidos
-⭐ Média das Avaliações dos Clientes
-🍕 Produtos Mais e Menos Vendidos
-🚚 Frete Médio por Loja
 
 
 
 
-
-
-
-📊 Visualizações Criadas
+<h2>📊 Gráficos plotados</h2>
 
 
 Gráfico de Barras — Faturamento Total por Loja
@@ -49,6 +64,10 @@ Gráfico de Barras — Produtos Mais Vendidos
 Exibe os produtos com maior número de vendas em cada loja.
 
 
+Gráfico de Barras — Produtos Menos Vendidos
+Exibe os produtos com maior número de vendas em cada loja.
+
+
 Gráfico de Barras — Receita por Produto
 Representa a soma total das receitas por produto.
 
@@ -61,26 +80,14 @@ Gráfico de Barras — Produto Mais Vendido por Loja
 Identifica o item de maior saída em cada unidade.
 
 
+#
 
 
-
-
-
-🧪 Tecnologias Utilizadas
-
-
-Python
-
-Pandas — Análise de Dados
-
-Matplotlib — Visualização de Dados
-
-
-
-✅ Conclusão
-
+✅
+<h2>🔭Conclusão</h2>
 A análise evidenciou os seguintes destaques:
 
+#
 
 Loja 1: Maior faturamento total.
 
@@ -88,12 +95,13 @@ Loja 3: Melhor avaliação média dos clientes.
 
 Loja 4: Pior desempenho geral, com menor faturamento e avaliações negativas.
 
+#
 
-
-Recomendação
+<h2>Recomendação</h2>
 
 Com base nas análises, recomenda-se a venda da Loja 4, que apresenta:
 
+#
 
 O menor faturamento entre todas as lojas.
 
