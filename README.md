@@ -6,17 +6,12 @@ Este projeto tem como objetivo guiar a decisão do Sr. João sobre qual loja de 
 
 
 Identificar a loja com pior desempenho geral.
-
 Avaliar os seguintes indicadores:
 
 📈 Faturamento Total por Loja
-
 📦 Categorias de Produtos Vendidos
-
 ⭐ Média das Avaliações dos Clientes
-
 🍕 Produtos Mais e Menos Vendidos
-
 🚚 Frete Médio por Loja
 
 
@@ -29,63 +24,34 @@ Avaliar os seguintes indicadores:
 
 
 Gráfico de Barras — Faturamento Total por Loja
-
 Mostra a receita total acumulada por cada loja.
 
 
-
-
-
 Gráfico de Barras Horizontais — Receita por Categoria por Loja
-
 Compara o desempenho de categorias específicas entre lojas.
 
 
-
-
-
 Gráfico de Rosca — Receita Consolidada por Categoria
-
 Indica a participação percentual das categorias no faturamento total.
 
 
-
-
-
 Gráfico de Dispersão — Média de Avaliações
-
 Apresenta a média das avaliações por loja e a média geral como referência.
 
 
-
-
-
 Gráfico de Barras — Produtos Mais Vendidos
-
 Exibe os produtos com maior número de vendas em cada loja.
 
 
-
-
-
 Gráfico de Barras — Receita por Produto
-
 Representa a soma total das receitas por produto.
 
 
-
-
-
 Gráfico de Dispersão — Frete Médio por Loja
-
 Analisa os custos médios de frete praticados por loja.
 
 
-
-
-
 Gráfico de Barras — Produto Mais Vendido por Loja
-
 Identifica o item de maior saída em cada unidade.
 
 
