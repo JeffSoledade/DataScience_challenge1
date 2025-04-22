@@ -2,11 +2,17 @@
 
 Este projeto tem como objetivo guiar a decisão do Sr. João sobre qual loja de sua rede deve ser vendida para financiar um novo empreendimento. A análise foi realizada com base em dados de vendas, desempenho e avaliações de 4 lojas distintas.
 
+
+
+
 🔍 Objetivos da Análise
 
 
 Identificar a loja com pior desempenho geral.
 Avaliar os seguintes indicadores:
+
+
+
 
 📈 Faturamento Total por Loja
 📦 Categorias de Produtos Vendidos
